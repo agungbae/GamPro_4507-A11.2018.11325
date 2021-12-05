@@ -1,0 +1,7 @@
+A11.2018.11325
+
+Cube -> Componen = Transform, Cube (Mesh Filter), Mesh Renderer, Box Collider
+Sphere -> Componen = Transform, Sphere (Mesh Filter), Mesh Renderer, Sphere Collider
+Capsule -> Componen = Transform, Capsule (Mesh Filter), Mesh Renderer, Capsule Collider
+Cylinder -> Componen = Transform, Cylinder (Mesh Filter), Mesh Renderer, Cylinder Collider
+Plane -> -> Componen = Transform, Plane (Mesh Filter), Mesh Renderer, Mesh Collider
